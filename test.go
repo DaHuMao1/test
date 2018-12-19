@@ -1,5 +1,8 @@
-#include<stdio>
-int main(){
-    printf("hello world");
+package main
+import "fmt"
+func main(){
+     fmt.Println("hello world")
 }
+
+
 
